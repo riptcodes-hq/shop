@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>RiptCodes</title>
+<link>https://riptcodes-hq.github.io/shop/</link>
+<description>Digital products by RiptCodes.</description>
+<language>en</language>
+<item>
+<title>2027 Planner PDF for reMarkable, Kindle Scribe, Supernote &amp; Boox – Hyperlinked E-Ink Daily, Weekly, Monthly</title>
+<link>https://riptcodes-hq.github.io/shop/duel-blue/</link>
+<guid isPermaLink="true">https://riptcodes-hq.github.io/shop/duel-blue/</guid>
+<description>2027 hyperlinked planner PDF for reMarkable 2 / Paper Pro, Kindle Scribe, Supernote, Boox and other e-ink tablets. Tap-to-jump monthly, weekly and daily pages, a full-year index, high contrast with no grey fills, so it stays crisp and fast on e-ink. Instant PDF download, Monday start, 157.5 x 210 mm. Price: £5.00.</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://riptcodes-hq.github.io/shop/duel-blue/cover.png" length="31840" type="image/png"/>
+<media:content url="https://riptcodes-hq.github.io/shop/duel-blue/cover.png" medium="image" type="image/png"/>
+</item>
+<item>
+<title>Blender Scene Cleanup &amp; Batch Export Add-on: Purge Orphans, Apply Transforms, Batch Rename</title>
+<link>https://riptcodes-hq.github.io/shop/duel-red/</link>
+<guid isPermaLink="true">https://riptcodes-hq.github.io/shop/duel-red/</guid>
+<description>Tidy a messy Blender scene in a few clicks. One sidebar panel (3D Viewport &gt; N &gt; Cleanup) with four tools: - **Purge Orphans**: remove unused data blocks (meshes, materials, textures, images, curves, lights, cameras, armatures, collections, node groups, actions) - **Apply Transforms**: apply location, rotation and scale on selected objects - **Batch Rename**: clean numbered names for selected objects - **Batch Export**: one file per selected... Price: $5.00.</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://riptcodes-hq.github.io/shop/duel-red/cover.png" length="40975" type="image/png"/>
+<media:content url="https://riptcodes-hq.github.io/shop/duel-red/cover.png" medium="image" type="image/png"/>
+</item>
+<item>
+<title>Developer Job Hunt &amp; Interview Prep Kit</title>
+<link>https://riptcodes-hq.github.io/shop/gumroad-alpha/</link>
+<guid isPermaLink="true">https://riptcodes-hq.github.io/shop/gumroad-alpha/</guid>
+<description>An Obsidian vault of plain Markdown notes plus an Excel application tracker (also as CSV, works in Google Sheets) and a Quick-Start PDF, to organise a developer job search and interview prep. Price: £9.00.</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://riptcodes-hq.github.io/shop/gumroad-alpha/cover.png" length="48842" type="image/png"/>
+<media:content url="https://riptcodes-hq.github.io/shop/gumroad-alpha/cover.png" medium="image" type="image/png"/>
+</item>
+<item>
+<title>Clean Line Icons: 86 SVG + PNG Icons, Outline and Duotone (Commercial Use)</title>
+<link>https://riptcodes-hq.github.io/shop/gumroad-bravo/</link>
+<guid isPermaLink="true">https://riptcodes-hq.github.io/shop/gumroad-bravo/</guid>
+<description>86 line icons in outline and duotone: 344 SVG files and 172 PNG files (64 and 256 px), preview sheets, README and a plain-English commercial licence. Same 24 px grid and 1.5 px stroke throughout; currentColor SVGs recolour in one line. Price: £7.00.</description>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<enclosure url="https://riptcodes-hq.github.io/shop/gumroad-bravo/cover.png" length="84479" type="image/png"/>
+<media:content url="https://riptcodes-hq.github.io/shop/gumroad-bravo/cover.png" medium="image" type="image/png"/>
+</item>
+</channel>
+</rss>
