@@ -1,0 +1,54 @@
+[
+  {
+    "buy_url": "https://riptcodes.gumroad.com/l/btbhl",
+    "currency": "GBP",
+    "image": "https://riptcodes-hq.github.io/shop/duel-blue/cover.png",
+    "kind": "digital-download",
+    "price": "£5.00",
+    "price_pence": 500,
+    "project": "duel-blue",
+    "since": "2026-10-15",
+    "store": "gumroad",
+    "title": "2027 Planner PDF for reMarkable, Kindle Scribe, Supernote & Boox – Hyperlinked E-Ink Daily, Weekly, Monthly",
+    "url": "https://riptcodes-hq.github.io/shop/duel-blue/"
+  },
+  {
+    "buy_url": "https://riptcodes.gumroad.com/l/ffmxps",
+    "currency": "USD",
+    "image": "https://riptcodes-hq.github.io/shop/duel-red/cover.png",
+    "kind": "digital-download",
+    "price": "$5.00",
+    "price_pence": 500,
+    "project": "duel-red",
+    "since": "2026-10-15",
+    "store": "gumroad",
+    "title": "Blender Scene Cleanup & Batch Export Add-on: Purge Orphans, Apply Transforms, Batch Rename",
+    "url": "https://riptcodes-hq.github.io/shop/duel-red/"
+  },
+  {
+    "buy_url": "https://riptcodes.gumroad.com/l/bjupkc",
+    "currency": "GBP",
+    "image": "https://riptcodes-hq.github.io/shop/gumroad-alpha/cover.png",
+    "kind": "digital-download",
+    "price": "£9.00",
+    "price_pence": 900,
+    "project": "gumroad-alpha",
+    "since": "2026-10-15",
+    "store": "gumroad",
+    "title": "Developer Job Hunt & Interview Prep Kit",
+    "url": "https://riptcodes-hq.github.io/shop/gumroad-alpha/"
+  },
+  {
+    "buy_url": "https://riptcodes.gumroad.com/l/iwyvdm",
+    "currency": "GBP",
+    "image": "https://riptcodes-hq.github.io/shop/gumroad-bravo/cover.png",
+    "kind": "digital-download",
+    "price": "£7.00",
+    "price_pence": 700,
+    "project": "gumroad-bravo",
+    "since": "2026-10-15",
+    "store": "gumroad",
+    "title": "Clean Line Icons: 86 SVG + PNG Icons, Outline and Duotone (Commercial Use)",
+    "url": "https://riptcodes-hq.github.io/shop/gumroad-bravo/"
+  }
+]
